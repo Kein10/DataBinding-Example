@@ -1,0 +1,12 @@
+C:\Users\Kevin\source\repos\Autos\bin\Debug\Autos.exe.config
+C:\Users\Kevin\source\repos\Autos\bin\Debug\Autos.exe
+C:\Users\Kevin\source\repos\Autos\bin\Debug\Autos.pdb
+C:\Users\Kevin\source\repos\Autos\bin\Debug\Autos.xml
+C:\Users\Kevin\source\repos\Autos\obj\Debug\Autos.vbprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Autos\obj\Debug\Autos.Form1.resources
+C:\Users\Kevin\source\repos\Autos\obj\Debug\Autos.Resources.resources
+C:\Users\Kevin\source\repos\Autos\obj\Debug\Autos.vbproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\Autos\obj\Debug\Autos.vbproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Autos\obj\Debug\Autos.exe
+C:\Users\Kevin\source\repos\Autos\obj\Debug\Autos.xml
+C:\Users\Kevin\source\repos\Autos\obj\Debug\Autos.pdb
